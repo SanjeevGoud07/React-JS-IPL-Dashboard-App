@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.LCard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 30%;
+  margin: 20px 0px;
+  min-height: 470px;
+  border-radius: 10px;
+  background-color: #0f172a;
+  justify-content: center;
+  text-align: center;
+}
+.CompL {
+  width: 50%;
+}
+.CardH {
+  font-size: 25px;
+}
+
+.Green {
+  color: #18ed66;
+  font-size: 20px;
+}
+.Red {
+  color: #e31a1a;
+  font-size: 20px;
+}

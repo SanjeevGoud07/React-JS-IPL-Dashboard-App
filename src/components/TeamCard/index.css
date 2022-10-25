@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.Item {
+  text-decoration: none;
+  color: #ffffff;
+  border: 2px solid #ffffff;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 400px;
+  min-height: 200px;
+  padding: 20px;
+  margin: 20px;
+  background-color: #ffffff20;
+  /* margin: 20px; */
+  text-align: center;
+  /* padding: 20px; */
+}
+
+.TLogo {
+  width: 30%;
+}
+
+.heading {
+  text-decoration: none;
+}
